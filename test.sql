@@ -1,1 +1,2 @@
-gjfghfgfqcwergfe
+select * from customer
+go
