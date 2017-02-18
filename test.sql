@@ -1,2 +1,6 @@
-select * from customer
-go
+select `my` from `customer`;
+
+
+--
+--mydata
+--
